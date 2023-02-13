@@ -293,7 +293,7 @@ var love = setInterval(function(){
   },500);
   
   var i = 0;
-  var txt1 = " <<<yooo BREAD <..This is for you <I wan't to say something special to you...! << When I saw you for the first time <You seems something Special to me.<I fall in love with you <from that moment....! <<I don't know the reason but i got butterflies ...! <i felt butterflies in my stomach ...! << Everything about you is always intresting for me...! ><<<<<<You are the only person  whom I love equally with my parents....! <<I haven't feel like this to anyone and I will not in future ....! ><<<<<<<<I Love YOU<Bread <<❤️ <<yrr tu jaan h <<😘😘😘😘><<<< I know i'm not perfect <but we'll laught together, fight together and stay together< Be mine always <I Love You <BREAD se <<❤️❤️❤️ ";
+  var txt1 = " <<<<yooo BREAD <<..This is for you <I wan't to say something special to you...! << When I saw you for the first time <You seems something Special to me.<I fall in love with you <from that moment....! <<I don't know the reason but i got butterflies ...! <i felt butterflies in my stomach ...! << Everything about you is always intresting for me...! ><<<<<<You are the only person  whom I love equally with my parents....! <<I haven't feel like this to anyone and I will not in future ....! ><<<<<<<<I Love YOU<Bread <<❤️ <<yrr tu jaan h <<😘😘😘😘><<<< I know i'm not perfect <but we'll laught together, fight together and stay together< Be mine always <I Love You <BREAD se <<❤️❤️❤️ ";
   var speed = 80;
   typeWriter();
   function typeWriter() {
